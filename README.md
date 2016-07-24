@@ -12,3 +12,6 @@ jsonToModel是一个代码生成器，输入json字符串后，可直接生成Mo
 
 也可指定前缀和BaseClass名称（这里的baseClass不是面向对象里面的基类，而是json最外层的dictionary生成的model的名称）
 ![image](https://github.com/iyongzai/jsonToModel/blob/master/jsonToModel/README/shot004.png)
+
+
+# 目前数组类型还没有写，后续补上
