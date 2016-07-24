@@ -2,7 +2,7 @@
 jsonToModel是一个代码生成器，输入json字符串后，可直接生成Model代码
 
 如：
-/Users/Tyler/Desktop/屏幕快照 2016-07-24 下午11.44.05.png
+https://github.com/iyongzai/jsonToModel/blob/master/jsonToModel/README/shot001.png
 
 点击 “生成model” 按钮，选择保存路径
 /Users/Tyler/Desktop/屏幕快照 2016-07-24 下午11.46.13.png
